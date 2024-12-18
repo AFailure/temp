@@ -57,3 +57,5 @@ Oil - Mobil Extended Fully Synthetic [120766](https://www.autozone.com/motor-oil
 
 
 ### Totals
+
+roughly $1600
